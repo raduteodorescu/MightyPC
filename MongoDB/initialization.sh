@@ -1,7 +1,7 @@
 # Inputs:
 # Paper/micro2025-data.json Taken from 'Paper information > JSON'
 # Paper/papers/*.pdfs Taken from 'Documents > Submissions'
-# DBLP/micro2022-users_dblp.json Manually obtained from 'Names and emails'
+# DBLPless n Manually obtained from 'Names and emails'
 # MongoDB/micro2022-pcinfo.csv Taken from 'PC Info'
 # MongoDB/micro2022-topics.csv Taken from 'Paper information > Topics'
 
